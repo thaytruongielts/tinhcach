@@ -1,0 +1,2 @@
+# tinhcach
+tính cách
